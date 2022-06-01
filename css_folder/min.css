@@ -839,7 +839,7 @@ form ::placeholder{
 .footer{
     padding-top: calc(var(--section-padding) /2);
     padding-bottom: calc(var(--section-padding) /2);
-    background-image: url(image/New/Footer.jpg);
+    background-image: url(/image/New/Footer.jpg);
     background-size: cover;
     color: white;
     position: relative;
